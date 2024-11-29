@@ -73,13 +73,7 @@ const UserProfilePage = () => {
     setIsDirty(false);
   };
   
-  const handleCancel = () => {
-    setIsEditing(false);
-    setIsDirty(false);
-    setLocalPhoto(null); // Reset local photo
-    setEditableUser(null); 
-  };
-
+  
   const handleSave = async () => {
     try {
       const { id, role, ...editableFields } = editableUser;
