@@ -6,6 +6,8 @@ import DashboardLayout from '../layout/DashboardLayout';
 import LoginPage from '../features/auth/components/LoginForm';
 import SignupPage from '../features/auth/components/SignupForm';
 import DemandesPage from '../pages/Documents/DemandesPage';
+import Docs from '../pages/Documents/Docs/Docs';
+import AddCourse from '../pages/CoursesFormateur/AddCourse';
 import {
   HomePage,
   NotFoundPage,
@@ -23,13 +25,14 @@ import {
   CompetencesPage,
   ModulesPage,
   Course,
+  CoursesFormateur,
   GroupesPage,
   Formateur,
   AllQuestions,
   QuizQuestions,
   TeacherQuizzes,
   SecteursPage,
-  SchedulerPage,
+  SchedulerPage
 } from '../pages';
 
 const RouteConfig = () => {
@@ -77,15 +80,24 @@ const RouteConfig = () => {
           path="/courses"
           element={
             <ProtectedRoute allowedRoles={['super user', 'trainer', 'trainee']}>
-              <CoursesPage />
+              {({ role }) => (role === 'trainer' ? <CoursesFormateur /> : <CoursesPage />)}
             </ProtectedRoute>
           }
         />
+
         <Route
           path="/courses/:id"
           element={
             <ProtectedRoute allowedRoles={['super user', 'trainer', 'trainee']}>
               <Course />
+            </ProtectedRoute>
+          }
+        />
+        <Route
+          path="/CoursesFormateur/addCourse"
+          element={
+            <ProtectedRoute allowedRoles={['super user', 'trainer']}>
+              <AddCourse />
             </ProtectedRoute>
           }
         />
@@ -104,6 +116,14 @@ const RouteConfig = () => {
           element={
             <ProtectedRoute allowedRoles={['super user', 'trainer', 'admin']}>
               <AttendancePage />
+            </ProtectedRoute>
+          }
+        />
+        <Route
+          path="/docs" 
+          element={
+            <ProtectedRoute allowedRoles={['super user', 'admin']}>
+              <Docs />
             </ProtectedRoute>
           }
         />

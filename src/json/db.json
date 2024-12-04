@@ -220,30 +220,120 @@
             "Protein",
             "ATP"
           ],
-          "correctAnswer": "DNA"
+          "correctAnswer": "A company's assets, liabilities, and equity at a point in time"
         },
         {
-          "id": "6f",
-          "question": "What is the term for a group of similar cells that perform a specific function?",
+          "id": "6",
+          "question": "What is the primary goal of financial management in a firm?",
           "answers": [
-            "Organ",
-            "Tissue",
-            "System",
-            "Organism"
+            "Maximizing market share",
+            "Minimizing expenses",
+            "Maximizing shareholder wealth",
+            "Increasing employee satisfaction"
           ],
-          "correctAnswer": "Tissue"
+          "correctAnswer": "Maximizing shareholder wealth"
         },
         {
-          "id": "7g",
-          "question": "Which process describes the movement of water across a selectively permeable membrane?",
+          "id": "7",
+          "question": "Which of the following is NOT a key area of finance?",
           "answers": [
-            "Diffusion",
-            "Osmosis",
-            "Active transport",
-            "Endocytosis"
+            "Corporate finance",
+            "Investments",
+            "Behavioral finance",
+            "Econometrics"
           ],
-          "correctAnswer": "Osmosis"
+          "correctAnswer": "Econometrics"
         },
+        {
+          "id": "8",
+          "question": "The time value of money concept suggests that:",
+          "answers": [
+            "A dollar today is worth less than a dollar tomorrow.",
+            "A dollar today is worth more than a dollar tomorrow.",
+            "A dollar today is worth the same as a dollar tomorrow.",
+            "The value of a dollar fluctuates randomly."
+          ],
+          "correctAnswer": "A dollar today is worth more than a dollar tomorrow."
+        },
+        {
+          "id": "9",
+          "question": "What does the term \"liquidity\" refer to in finance?",
+          "answers": [
+            "The ability of an asset to be quickly converted into cash without significant loss of value.",
+            "The profitability of an asset.",
+            "The risk associated with an asset.",
+            "The growth potential of an asset."
+          ],
+          "correctAnswer": "The ability of an asset to be quickly converted into cash without significant loss of value."
+        },
+        {
+          "id": "10",
+          "question": "Which financial statement shows a company's financial position at a specific point in time?",
+          "answers": [
+            "Income Statement",
+            "Statement of Cash Flows",
+            "Balance Sheet",
+            "Statement of Retained Earnings"
+          ],
+          "correctAnswer": "Balance Sheet"
+        },
+        {
+          "id": "11",
+          "question": "What is the difference between a company's current assets and its current liabilities?",
+          "answers": [
+            "Net Working Capital",
+            "Total Equity",
+            "Long-term Debt",
+            "Gross Profit"
+          ],
+          "correctAnswer": "Net Working Capital"
+        },
+        {
+          "id": "12",
+          "question": "Which of these is a measure of a company's profitability?",
+          "answers": [
+            "Debt-to-Equity Ratio",
+            "Current Ratio",
+            "Return on Equity (ROE)",
+            "Quick Ratio"
+          ],
+          "correctAnswer": "Return on Equity (ROE)"
+        },
+        {
+          "id": "13",
+          "question": "What does NPV stand for in finance?",
+          "answers": [
+            "Net Present Value",
+            "Net Profit Value",
+            "Nominal Present Value",
+            "Net Past Value"
+          ],
+          "correctAnswer": "Net Present Value"
+        },
+        {
+          "id": "14",
+          "question": "Which type of risk is typically diversified away by holding a portfolio of investments?",
+          "answers": [
+            "Systematic Risk",
+            "Unsystematic Risk",
+            "Market Risk",
+            "Inflation Risk"
+          ],
+          "correctAnswer": "Unsystematic Risk"
+        },
+        {
+          "id": "15",
+          "question": "The weighted average cost of capital (WACC) represents:",
+          "answers": [
+            "The average cost of a company's financing.",
+            "The return on equity.",
+            "The return on assets.",
+            "The cost of debt only."
+          ],
+          "correctAnswer": "The average cost of a company's financing."
+        }
+      ],
+      "questionsSelected": [
         {
           "id": "8h",
           "question": "What is the main pigment involved in photosynthesis?",
@@ -264,30 +354,108 @@
             "Carbohydrates",
             "Nucleic acids"
           ],
-          "correctAnswer": "Proteins"
+          "correctAnswer": "Return on Investment"
         },
         {
-          "id": "10j",
-          "question": "Which level of biological organization comes immediately after 'organism'?",
+          "id": "3c",
+          "question": "Which of the following is a liability?",
           "answers": [
-            "Population",
-            "Community",
-            "Ecosystem",
-            "Biosphere"
+            "Accounts receivable",
+            "Accounts payable",
+            "Cash",
+            "Inventory"
           ],
-          "correctAnswer": "Population"
+          "correctAnswer": "Accounts payable"
         },
         {
-          "id": "11k",
-          "question": "What is the term for the process by which organisms maintain a stable internal environment?",
+          "id": "4d",
+          "question": "What is the formula for calculating net profit?",
           "answers": [
-            "Evolution",
-            "Homeostasis",
-            "Adaptation",
-            "Metabolism"
+            "Revenue - Expenses",
+            "Revenue + Expenses",
+            "Revenue - Cost of Goods Sold",
+            "Total Assets - Liabilities"
           ],
-          "correctAnswer": "Homeostasis"
+          "correctAnswer": "Revenue - Expenses"
         },
+        {
+          "id": "7",
+          "question": "Which of the following is NOT a key area of finance?",
+          "answers": [
+            "Corporate finance",
+            "Investments",
+            "Behavioral finance",
+            "Econometrics"
+          ],
+          "correctAnswer": "Econometrics"
+        },
+        {
+          "id": "9",
+          "question": "What does the term \"liquidity\" refer to in finance?",
+          "answers": [
+            "The ability of an asset to be quickly converted into cash without significant loss of value.",
+            "The profitability of an asset.",
+            "The risk associated with an asset.",
+            "The growth potential of an asset."
+          ],
+          "correctAnswer": "The ability of an asset to be quickly converted into cash without significant loss of value."
+        },
+        {
+          "id": "11",
+          "question": "What is the difference between a company's current assets and its current liabilities?",
+          "answers": [
+            "Net Working Capital",
+            "Total Equity",
+            "Long-term Debt",
+            "Gross Profit"
+          ],
+          "correctAnswer": "Net Working Capital"
+        },
+        {
+          "id": "12",
+          "question": "Which of these is a measure of a company's profitability?",
+          "answers": [
+            "Debt-to-Equity Ratio",
+            "Current Ratio",
+            "Return on Equity (ROE)",
+            "Quick Ratio"
+          ],
+          "correctAnswer": "Return on Equity (ROE)"
+        },
+        {
+          "id": "13",
+          "question": "What does NPV stand for in finance?",
+          "answers": [
+            "Net Present Value",
+            "Net Profit Value",
+            "Nominal Present Value",
+            "Net Past Value"
+          ],
+          "correctAnswer": "Net Present Value"
+        },
+        {
+          "id": "14",
+          "question": "Which type of risk is typically diversified away by holding a portfolio of investments?",
+          "answers": [
+            "Systematic Risk",
+            "Unsystematic Risk",
+            "Market Risk",
+            "Inflation Risk"
+          ],
+          "correctAnswer": "Unsystematic Risk"
+        }
+      ],
+      "id": "f4dc"
+    },
+    {
+      "quizID": "QZ202",
+      "coursequizID": "MKT201",
+      "courseName": "Principles of Marketing",
+      "teacherId": "T002",
+      "teacherName": "Prof. Emily Green",
+      "Deadline": "2024-12-05T22:00",
+      "status": "active",
+      "questions": [
         {
           "id": "12l",
           "question": "What type of bond forms between two water molecules?",
@@ -2305,7 +2473,7 @@
       ],
       "questionsSelected": [
         {
-          "id": "3",
+          "id": "1732647826453",
           "question": "What is the chemical formula for water?",
           "answers": [
             "ff",
@@ -2313,8 +2481,7 @@
             "ff",
             "ff"
           ],
-          "correctAnswer": "fff",
-          "id": "1732647826453"
+          "correctAnswer": "fff"
         }
       ]
     },
@@ -2328,149 +2495,28 @@
       "questions": [
         {
           "id": "1",
-          "question": "Which of the following is NOT a core principle of object-oriented programming?",
+          "question": "Which empire is credited with the construction of the Great Wall of China?",
           "answers": [
-            "Encapsulation",
-            "Polymorphism",
-            "Sequential Processing",
-            "Inheritance"
+            "Qin",
+            "Han",
+            "Sui",
+            "Tang"
           ],
-          "correctAnswer": "Sequential Processing"
+          "correctAnswer": "Qin"
         },
         {
           "id": "2",
-          "question": "What does the acronym \"OOP\" stand for in the context of programming?",
+          "question": "The Renaissance is generally considered to have begun in which region of Europe?",
           "answers": [
-            "Out Of Place",
-            "Object-Oriented Programming",
-            "Open-ended Procedure",
-            "Ordered Output Protocol"
+            "Northern Europe",
+            "Iberian Peninsula",
+            "Italy",
+            "France"
           ],
-          "correctAnswer": "Object-Oriented Programming"
+          "correctAnswer": "Italy"
         },
         {
           "id": "3",
-          "question": "A class is defined as:",
-          "answers": [
-            "An instance of an object",
-            "A blueprint for creating objects",
-            "A specific type of data structure",
-            "A method within an object"
-          ],
-          "correctAnswer": "A blueprint for creating objects"
-        },
-        {
-          "id": "4",
-          "question": "What is method overloading?",
-          "answers": [
-            "Defining multiple methods with the same name but different return types.",
-            "Defining multiple methods with the same name and the same parameters.",
-            "Defining multiple methods with the same name but different parameter lists.",
-            "Defining multiple methods with different names but the same functionality."
-          ],
-          "correctAnswer": "Defining multiple methods with the same name but different parameter lists."
-        },
-        {
-          "id": "5",
-          "question": "Inheritance in OOP allows for:",
-          "answers": [
-            "Data hiding",
-            "Code reusability",
-            "Polymorphic errors",
-            "Overloading methods"
-          ],
-          "correctAnswer": "Code reusability"
-        },
-        {
-          "id": "6",
-          "question": "Encapsulation is achieved through:",
-          "answers": [
-            "Publicly accessible data members",
-            "Private and protected access modifiers",
-            "Inheritance mechanisms",
-            "Polymorphic functions"
-          ],
-          "correctAnswer": "Private and protected access modifiers"
-        },
-        {
-          "id": "7",
-          "question": "Polymorphism allows:",
-          "answers": [
-            "Objects of different classes to be treated as objects of a common type.",
-            "Objects to have multiple inheritance simultaneously.",
-            "Methods to have only one implementation.",
-            "Data to be freely accessed from any part of the program."
-          ],
-          "correctAnswer": "Objects of different classes to be treated as objects of a common type."
-        },
-        {
-          "id": "8",
-          "question": "What is an abstract class?",
-          "answers": [
-            "A class that cannot be instantiated.",
-            "A class that has only abstract methods.",
-            "A class that has no methods.",
-            "A class that cannot be inherited from."
-          ],
-          "correctAnswer": "A class that cannot be instantiated."
-        },
-        {
-          "id": "9",
-          "question": "What is the purpose of a constructor in a class?",
-          "answers": [
-            "To destroy an object",
-            "To initialize an object",
-            "To define the class's methods",
-            "To inherit from another class"
-          ],
-          "correctAnswer": "To initialize an object"
-        },
-        {
-          "id": "10",
-          "question": "Which concept describes the ability of a single method to handle different types of objects?",
-          "answers": [
-            "Encapsulation",
-            "Abstraction",
-            "Polymorphism",
-            "Inheritance"
-          ],
-          "correctAnswer": "Polymorphism"
-        },
-        {
-          "id": "11",
-          "question": "Which empire is credited with the construction of the Great Wall of China?",
-          "answers": [
-            "Qin Dynasty",
-            "Han Dynasty",
-            "Sui Dynasty",
-            "Tang Dynasty"
-          ],
-          "correctAnswer": "Qin Dynasty"
-        },
-        {
-          "id": "12",
-          "question": "The Renaissance is considered to have begun in which Italian city-state?",
-          "answers": [
-            "Venice",
-            "Florence",
-            "Rome",
-            "Milan"
-          ],
-          "correctAnswer": "Florence"
-        },
-        {
-          "id": "13",
-          "question": "The Protestant Reformation is most associated with which historical figure?",
-          "answers": [
-            "Leonardo da Vinci",
-            "Martin Luther",
-            "Michelangelo",
-            "Niccolò Machiavelli"
-          ],
-          "correctAnswer": "Martin Luther"
-        },
-        {
-          "id": "14",
           "question": "Which treaty officially ended World War I?",
           "answers": [
             "Treaty of Versailles",
@@ -2481,73 +2527,195 @@
           "correctAnswer": "Treaty of Versailles"
         },
         {
-          "id": "15",
+          "id": "4",
           "question": "The Cold War was primarily a geopolitical struggle between which two superpowers?",
           "answers": [
-            "United States and China",
-            "Soviet Union and Great Britain",
+            "United States and Britain",
+            "Soviet Union and Germany",
             "United States and Soviet Union",
-            "Great Britain and France"
+            "China and Japan"
           ],
           "correctAnswer": "United States and Soviet Union"
         },
         {
-          "id": "16",
-          "question": "The Neolithic Revolution is characterized by the development of:",
+          "id": "5",
+          "question": "The Neolithic Revolution is associated with the development of:",
           "answers": [
             "Metalworking",
-            "Writing systems",
             "Agriculture",
-            "Democracy"
+            "Writing",
+            "The wheel"
           ],
           "correctAnswer": "Agriculture"
         },
         {
-          "id": "17",
+          "id": "6",
           "question": "Which civilization developed the concept of zero?",
           "answers": [
             "Greek",
             "Roman",
             "Mayan",
-            "Gupta"
+            "Indian"
           ],
-          "correctAnswer": "Gupta"
+          "correctAnswer": "Indian"
         },
         {
-          "id": "18",
-          "question": "The Silk Road facilitated trade between which two major regions?",
+          "id": "7",
+          "question": "The Protestant Reformation was initiated by:",
           "answers": [
-            "Europe and Africa",
-            "Europe and Asia",
-            "Asia and the Americas",
-            "Africa and the Americas"
+            "Martin Luther",
+            "John Calvin",
+            "Henry VIII",
+            "Pope Leo X"
           ],
-          "correctAnswer": "Europe and Asia"
+          "correctAnswer": "Martin Luther"
         },
         {
-          "id": "19",
-          "question": "The invention of the printing press is most associated with:",
+          "id": "8",
+          "question": "The Opium Wars were fought between Britain and:",
           "answers": [
-            "Johannes Gutenberg",
-            "Leonardo da Vinci",
-            "Isaac Newton",
-            "Galileo Galilei"
+            "France",
+            "Russia",
+            "China",
+            "Japan"
           ],
-          "correctAnswer": "Johannes Gutenberg"
+          "correctAnswer": "China"
         },
         {
-          "id": "20",
-          "question": "Which event is widely considered to be the start of World War II?",
+          "id": "9",
+          "question": "Which event is widely considered the start of World War II?",
           "answers": [
-            "The assassination of Archduke Franz Ferdinand",
             "The invasion of Poland",
             "The bombing of Pearl Harbor",
+            "The assassination of Archduke Franz Ferdinand",
             "The signing of the Treaty of Versailles"
           ],
           "correctAnswer": "The invasion of Poland"
+        },
+        {
+          "id": "10",
+          "question": "The Silk Road primarily facilitated trade between:",
+          "answers": [
+            "Europe and the Americas",
+            "East Asia and the Mediterranean",
+            "Africa and South America",
+            "India and Australia"
+          ],
+          "correctAnswer": "East Asia and the Mediterranean"
         }
       ],
-      "questionsSelected": []
+      "questionsSelected": [
+        {
+          "id": "1",
+          "question": "Which empire is credited with the construction of the Great Wall of China?",
+          "answers": [
+            "Qin",
+            "Han",
+            "Sui",
+            "Tang"
+          ],
+          "correctAnswer": "Qin"
+        },
+        {
+          "id": "2",
+          "question": "The Renaissance is generally considered to have begun in which region of Europe?",
+          "answers": [
+            "Northern Europe",
+            "Iberian Peninsula",
+            "Italy",
+            "France"
+          ],
+          "correctAnswer": "Italy"
+        },
+        {
+          "id": "3",
+          "question": "Which treaty officially ended World War I?",
+          "answers": [
+            "Treaty of Versailles",
+            "Treaty of Tordesillas",
+            "Treaty of Paris",
+            "Treaty of Ghent"
+          ],
+          "correctAnswer": "Treaty of Versailles"
+        },
+        {
+          "id": "4",
+          "question": "The Cold War was primarily a geopolitical struggle between which two superpowers?",
+          "answers": [
+            "United States and Britain",
+            "Soviet Union and Germany",
+            "United States and Soviet Union",
+            "China and Japan"
+          ],
+          "correctAnswer": "United States and Soviet Union"
+        },
+        {
+          "id": "5",
+          "question": "The Neolithic Revolution is associated with the development of:",
+          "answers": [
+            "Metalworking",
+            "Agriculture",
+            "Writing",
+            "The wheel"
+          ],
+          "correctAnswer": "Agriculture"
+        },
+        {
+          "id": "6",
+          "question": "Which civilization developed the concept of zero?",
+          "answers": [
+            "Greek",
+            "Roman",
+            "Mayan",
+            "Indian"
+          ],
+          "correctAnswer": "Indian"
+        },
+        {
+          "id": "7",
+          "question": "The Protestant Reformation was initiated by:",
+          "answers": [
+            "Martin Luther",
+            "John Calvin",
+            "Henry VIII",
+            "Pope Leo X"
+          ],
+          "correctAnswer": "Martin Luther"
+        },
+        {
+          "id": "8",
+          "question": "The Opium Wars were fought between Britain and:",
+          "answers": [
+            "France",
+            "Russia",
+            "China",
+            "Japan"
+          ],
+          "correctAnswer": "China"
+        },
+        {
+          "id": "9",
+          "question": "Which event is widely considered the start of World War II?",
+          "answers": [
+            "The invasion of Poland",
+            "The bombing of Pearl Harbor",
+            "The assassination of Archduke Franz Ferdinand",
+            "The signing of the Treaty of Versailles"
+          ],
+          "correctAnswer": "The invasion of Poland"
+        },
+        {
+          "id": "10",
+          "question": "The Silk Road primarily facilitated trade between:",
+          "answers": [
+            "Europe and the Americas",
+            "East Asia and the Mediterranean",
+            "Africa and South America",
+            "India and Australia"
+          ],
+          "correctAnswer": "East Asia and the Mediterranean"
+        }
+      ]
     }
   ],
   "filieres": [
@@ -6212,216 +6380,69 @@
   "courses": [
     {
       "id": "1",
-      "coursequizID": "BIO101",
+      "Module": "M101",
       "courseName": "Introduction to Biology",
       "teacherId": "T001",
       "teacherName": "Dr. Alice Johnson",
       "courseDescription": "An introduction to the fundamental principles of biology, covering topics like cell biology, genetics, and ecology.",
-      "credits": 3,
       "imageUrl": "https://wallpaperaccess.com/full/796849.jpg",
-      "schedule": "Mon/Wed/Fri 10:00 AM - 11:30 AM",
-      "location": "Room 203, Science Building",
-      "materials": [
-        "Biology 101 Textbook",
-        "Lab Manual"
-      ],
-      "contentOfCourse": [
-        {
-          "contentId": "1",
-          "contentName": "Introduction to Biology",
-          "contentDescription": "An overview of the fundamental concepts of biology, including cell biology, genetics, and ecology."
-        },
-        {
-          "contentId": "2",
-          "contentName": "Lab Safety Guidelines",
-          "contentDescription": "Guidelines for safe and responsible use of laboratory equipment and materials."
-        },
-        {
-          "contentId": "3",
-          "contentName": "Lab Equipment Maintenance",
-          "contentDescription": "Instructions for maintaining and repairing laboratory equipment."
-        }
-      ],
       "pdfUrl": "https://docs.google.com/viewer?url=https://www.bestcours.com/pdf/0769-python-pour-la-biologie.pdf",
-      "videoLink": "https://www.youtube.com/watch?v=2bJkE9Zf4Jg",
-      "status": "completed"
+      "videoLink": "https://youtu.be/tZE_fQFK8EY?si=_ZCt1TrfD2apu22m"
     },
     {
       "id": "2",
-      "coursequizID": "PHYS101",
+      "Module": "M102",
       "courseName": "Introduction to Physics",
       "teacherId": "T002",
       "teacherName": "Dr. Michael Smith",
       "courseDescription": "An introduction to the fundamental principles of biology, covering topics like cell biology, genetics, and ecology.",
-      "credits": 4,
       "imageUrl": "https://th.bing.com/th/id/OIP.RKDSdMJ5v5Hb4uflD3AoZgHaD5?rs=1&pid=ImgDetMain",
-      "schedule": "Tue/Thu 9:00 AM - 10:30 AM",
-      "location": "Room 102, Physics Lab",
-      "materials": [
-        "Physics 101 Textbook",
-        "Lab Safety Manual"
-      ],
-      "contentOfCourse": [
-        {
-          "contentId": "1",
-          "contentName": "Introduction to Physics",
-          "contentDescription": "An overview of the fundamental concepts of physics, including motion, energy, and forces."
-        },
-        {
-          "contentId": "2",
-          "contentName": "Lab Safety Guidelines",
-          "contentDescription": "Guidelines for safe and responsible use of laboratory equipment and materials."
-        },
-        {
-          "contentId": "3",
-          "contentName": "Lab Equipment Maintenance",
-          "contentDescription": "Instructions for maintaining and repairing laboratory equipment."
-        }
-      ],
       "pdfUrl": "https://docs.google.com/viewer?url=https://www.bestcours.com/pdf/0769-python-pour-la-biologie.pdf",
       "videoLink": "https://www.youtube.com/watch?v=2bJkE9Zf4Jg",
       "status": "completed"
     },
     {
       "id": "3",
-      "coursequizID": "HIST201",
+      "Module": "M103",
       "courseName": "World History",
       "teacherId": "T003",
       "teacherName": "Dr. Sarah Davis",
       "courseDescription": "An exploration of world history from ancient civilizations to modern times.",
-      "credits": 3,
       "imageUrl": "https://wallpaperaccess.com/full/796849.jpg",
-      "schedule": "Mon/Wed 1:00 PM - 2:30 PM",
-      "location": "Room 104, History Department",
-      "materials": [
-        "World History Textbook",
-        "Primary Source Readings"
-      ],
-      "contentOfCourse": [
-        {
-          "contentId": "1",
-          "contentName": "Introduction to World History",
-          "contentDescription": "An overview of the fundamental concepts of world history, including major events, figures, and cultural movements."
-        },
-        {
-          "contentId": "2",
-          "contentName": "Lab Safety Guidelines",
-          "contentDescription": "Guidelines for safe and responsible use of laboratory equipment and materials."
-        },
-        {
-          "contentId": "3",
-          "contentName": "Lab Equipment Maintenance",
-          "contentDescription": "Instructions for maintaining and repairing laboratory equipment."
-        }
-      ],
       "pdfUrl": "https://docs.google.com/viewer?url=https://www.bestcours.com/pdf/0769-python-pour-la-biologie.pdf",
-      "videoLink": "https://www.youtube.com/watch?v=2bJkE9Zf4Jg",
-      "status": "completed"
+      "videoLink": "https://www.youtube.com/watch?v=2bJkE9Zf4Jg"
     },
     {
       "id": "4",
+      "Module": "M104",
       "coursequizID": "104",
       "courseName": "General Chemistry",
       "teacherId": "T004",
       "teacherName": "Dr. Emily Zhang",
       "courseDescription": "A foundational chemistry course covering the basics of chemical reactions, atomic structure, and the periodic table.",
-      "credits": 4,
       "imageUrl": "https://wallpaperaccess.com/full/796849.jpg",
-      "schedule": "Tue/Thu 2:00 PM - 3:30 PM",
-      "location": "Room 205, Chemistry Lab",
-      "materials": [
-        "General Chemistry Textbook",
-        "Laboratory Notebook"
-      ],
-      "contentOfCourse": [
-        {
-          "contentId": "1",
-          "contentName": "Introduction to Chemistry",
-          "contentDescription": "An overview of the fundamental concepts of chemistry, including chemical reactions, atomic structure, and the periodic table."
-        },
-        {
-          "contentId": "2",
-          "contentName": "Lab Safety Guidelines",
-          "contentDescription": "Guidelines for safe and responsible use of laboratory equipment and materials."
-        },
-        {
-          "contentId": "3",
-          "contentName": "Lab Equipment Maintenance",
-          "contentDescription": "Instructions for maintaining and repairing laboratory equipment."
-        }
-      ],
       "pdfUrl": "https://docs.google.com/viewer?url=https://www.bestcours.com/pdf/0769-python-pour-la-biologie.pdf",
-      "videoLink": "https://www.youtube.com/watch?v=2bJkE9Zf4Jg",
-      "status": "completed"
+      "videoLink": "https://www.youtube.com/watch?v=2bJkE9Zf4Jg"
     },
     {
       "id": "5",
-      "coursequizID": "105",
+      "Module": "M105",
       "courseName": "Introduction to Mathematics",
       "teacherId": "T005",
       "teacherName": "Mr. William Lee",
       "courseDescription": "A basic course in mathematics, including algebra, calculus, and geometry.",
-      "credits": 3,
       "imageUrl": "https://wallpaperaccess.com/full/796849.jpg",
-      "schedule": "Mon/Fri 11:00 AM - 12:30 PM",
-      "location": "Room 101, Math Department",
-      "materials": [
-        "Mathematics 101 Textbook",
-        "Scientific Calculator"
-      ],
-      "contentOfCourse": [
-        {
-          "contentId": "1",
-          "contentName": "Introduction to Mathematics",
-          "contentDescription": "An overview of the fundamental concepts of mathematics, including algebra, calculus, and geometry."
-        },
-        {
-          "contentId": "2",
-          "contentName": "Lab Safety Guidelines",
-          "contentDescription": "Guidelines for safe and responsible use of laboratory equipment and materials."
-        },
-        {
-          "contentId": "3",
-          "contentName": "Lab Equipment Maintenance",
-          "contentDescription": "Instructions for maintaining and repairing laboratory equipment."
-        }
-      ],
       "pdfUrl": "https://docs.google.com/viewer?url=https://www.bestcours.com/pdf/0769-python-pour-la-biologie.pdf",
-      "videoLink": "https://www.youtube.com/watch?v=2bJkE9Zf4Jg",
-      "status": "completed"
+      "videoLink": "https://www.youtube.com/watch?v=2bJkE9Zf4Jg"
     },
     {
       "id": "6",
-      "coursequizID": "106",
+      "Module": "M106",
       "courseName": "Principles of Economics",
       "teacherId": "T006",
       "teacherName": "Dr. Rachel Green",
       "courseDescription": "An introductory course to economics, covering basic principles of microeconomics and macroeconomics.",
-      "credits": 3,
       "imageUrl": "https://wallpaperaccess.com/full/796849.jpg",
-      "schedule": "Mon/Wed 3:00 PM - 4:30 PM",
-      "location": "Room 303, Economics Building",
-      "materials": [
-        "Economics 101 Textbook",
-        "Macroeconomics Reader"
-      ],
-      "contentOfCourse": [
-        {
-          "contentId": "1",
-          "contentName": "Introduction to Economics",
-          "contentDescription": "An overview of the fundamental concepts of economics, including microeconomics and macroeconomics."
-        },
-        {
-          "contentId": "2",
-          "contentName": "Lab Safety Guidelines",
-          "contentDescription": "Guidelines for safe and responsible use of laboratory equipment and materials."
-        },
-        {
-          "contentId": "3",
-          "contentName": "Lab Equipment Maintenance",
-          "contentDescription": "Instructions for maintaining and repairing laboratory equipment."
-        }
-      ],
       "pdfUrl": "https://docs.google.com/viewer?url=https://www.bestcours.com/pdf/0769-python-pour-la-biologie.pdf",
       "videoLink": "https://www.youtube.com/watch?v=2bJkE9Zf4Jg",
       "status": "active"
@@ -7563,6 +7584,28 @@
       "user": "Admin Admin",
       "status": "en cours",
       "submissionDate": "11/21/2024",
+      "processingTime": "3-5 jours"
+    },
+    {
+      "id": "75b7",
+      "document": "Relevé de notes",
+      "description": "Résumé des notes obtenues durant les examens",
+      "requestDate": "2024-12-04",
+      "files": [
+        {
+          "name": "tp_scrum.pdf",
+          "size": 333898,
+          "type": "application/pdf"
+        },
+        {
+          "name": "diagram.png",
+          "size": 141728,
+          "type": "image/png"
+        }
+      ],
+      "user": "Alice Smith",
+      "status": "en cours",
+      "submissionDate": "03/12/2024",
       "processingTime": "3-5 jours"
     }
   ],
